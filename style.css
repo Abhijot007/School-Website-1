@@ -1,0 +1,12 @@
+#marqueeStyle {
+    background-color: blue;
+    color: white;
+}
+#map iframe {
+    width: 100%;
+}
+#img {
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+}
